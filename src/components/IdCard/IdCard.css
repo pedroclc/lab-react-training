@@ -1,0 +1,12 @@
+.cartao {
+  display: flex;
+  border: 2px solid black;
+}
+
+.imagem {
+  padding: 8px;
+}
+
+.informacoes {
+  line-height: 3px;
+}
